@@ -1,0 +1,4 @@
+Executar dentro de uma pasta --> "go run *.go"
+Executar multiplos arquivos  --> "go run um.go dois.go"
+
+go get -u github.com/...  --> baixar pacote
